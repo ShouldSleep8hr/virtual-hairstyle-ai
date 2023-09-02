@@ -37,8 +37,6 @@ npm run dev
 
 Open http://localhost:3000 in your web browser. Done!
 
-## One-click deploy
+## ## Deploying from
 
-Deploy this project using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=changehairstyleai):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Pwntus/change-hairstyle-ai&env=NUXT_REPLICATE_API_TOKEN&project-name=change-hairstyle-ai&repo-name=change-hairstyle-ai)
+https://github.com/Pwntus/change-hairstyle-ai
